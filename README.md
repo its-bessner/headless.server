@@ -1,5 +1,5 @@
 # Anwendung
-Mit diesen Befehlen kann man einen headless-server machen, der dann einen Desktop bereitstellt, den man per rdp ansprechen kann. 
+Mit diesem Skript kann man einen headless-server machen, der dann einen Desktop bereitstellt, den man per rdp ansprechen kann. 
 
 Hat eine Weile gedauert, bis das funktioniert hat. Danach dann aber wenigstens jedesmal. 
 
@@ -13,4 +13,4 @@ Sicherheitsmodus:	Jede
 Serverzertifikat ignorieren: X	
 ```
 
-Einfach SETUP mit cat ausgeben und dann per Copy & Paste anwenden. 
+Einfach setup.sh als root ausführen.
