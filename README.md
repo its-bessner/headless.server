@@ -1,7 +1,11 @@
 # Anwendung
-Mit diesem Skript kann man einen headless-server erstellen, der dann einen Desktop bereitstellt, den man per rdp ansprechen kann. 
+Mit diesen Skripts kann man einen headless-server erstellen, der dann einen Desktop bereitstellt, den man per rdp oder vnc ansprechen kann. 
 
 Hat eine Weile gedauert, bis das funktioniert hat. Danach dann aber wenigstens jedesmal. 
+
+## RDP
+
+`setup.sh`ausführen.
 
 Ob es geklappt hat, kann man nur in einem rdp Client sehen. Guacamole ist übrigens auch einer. Oder wenigstens zum Teil. 
 
