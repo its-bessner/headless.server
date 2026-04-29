@@ -1,5 +1,5 @@
 # Anwendung
-Mit diesem Skript kann man einen headless-server machen, der dann einen Desktop bereitstellt, den man per rdp ansprechen kann. 
+Mit diesem Skript kann man einen headless-server erstellen, der dann einen Desktop bereitstellt, den man per rdp ansprechen kann. 
 
 Hat eine Weile gedauert, bis das funktioniert hat. Danach dann aber wenigstens jedesmal. 
 
@@ -14,3 +14,7 @@ Serverzertifikat ignorieren: X
 ```
 
 Einfach setup.sh als root ausführen.
+
+## VNC
+
+Das Skript `vncsetup.sh` mach im Grunde das gleiche - allerdings wird ein VNC-Server erstellt. Falls man das mal braucht. RDP ist abe die bessere Variante.
